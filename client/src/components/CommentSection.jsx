@@ -78,9 +78,7 @@ export default function CommentSection({ postId }) {
               {commentError}
             </Alert>
           )}
-            </form> 
-           
-            
+            </form>    
         )}
         
     </div> 

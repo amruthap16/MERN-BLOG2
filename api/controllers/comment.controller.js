@@ -20,6 +20,5 @@ export const createComment = async (req, res, next) => {
 
     } catch (error) {
         next(error);
-
     }
 };
