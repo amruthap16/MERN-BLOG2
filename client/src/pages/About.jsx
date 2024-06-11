@@ -6,7 +6,7 @@ export default function About() {
       <div className="max-w-2xl mx-auto p-3 text-center">
         <div>
         <h1 className='text-3xl font font-semibold text-center my-7'>
-            About Sahand' Blog
+            About Amrutha's Blog
           </h1>
           <div className="text-md text-gray-500 flex flex-col gap-6">
           <p> Welcome to Amrutha's Blog! This blog was created by Amrutha Pandavula as a personal project to share his thoughts and ideas with the world. Amrutha is a aspiring mern stack developer looking for an oppurtunity as a fresher </p>
